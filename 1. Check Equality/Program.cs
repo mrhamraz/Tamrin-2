@@ -6,7 +6,7 @@ namespace _1._Check_Equality
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
