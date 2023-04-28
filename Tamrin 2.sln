@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Check Equality", "1. Che
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Check Even or Odd", "2. Check Even or Odd\2. Check Even or Odd.csproj", "{A245E2DC-72F7-48CF-8760-9ACE74D63F9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Check Positive or Negative", "3. Check Positive or Negative\3. Check Positive or Negative.csproj", "{498530D0-FF26-408A-A319-CFDD191ED0AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A245E2DC-72F7-48CF-8760-9ACE74D63F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A245E2DC-72F7-48CF-8760-9ACE74D63F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A245E2DC-72F7-48CF-8760-9ACE74D63F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498530D0-FF26-408A-A319-CFDD191ED0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498530D0-FF26-408A-A319-CFDD191ED0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498530D0-FF26-408A-A319-CFDD191ED0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498530D0-FF26-408A-A319-CFDD191ED0AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
