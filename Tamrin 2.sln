@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Leap year", "4. Leap yea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. 1 0 -1", "5. 1 0 -1\5. 1 0 -1.csproj", "{80E18776-5F4E-43B2-9A49-23CEEEEC02C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Height", "6. Height\6. Height.csproj", "{C716EF57-9D9F-4394-9FB6-2F55DA6E7DC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{80E18776-5F4E-43B2-9A49-23CEEEEC02C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80E18776-5F4E-43B2-9A49-23CEEEEC02C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80E18776-5F4E-43B2-9A49-23CEEEEC02C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C716EF57-9D9F-4394-9FB6-2F55DA6E7DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C716EF57-9D9F-4394-9FB6-2F55DA6E7DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C716EF57-9D9F-4394-9FB6-2F55DA6E7DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C716EF57-9D9F-4394-9FB6-2F55DA6E7DC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
