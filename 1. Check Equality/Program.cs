@@ -4,7 +4,7 @@ namespace _1._Check_Equality
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Enter to numbers to check the equality : ");
 

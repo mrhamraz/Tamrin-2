@@ -4,7 +4,7 @@ namespace _3._Check_Positive_or_Negative
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Enter number to check the sign of it  :");
 

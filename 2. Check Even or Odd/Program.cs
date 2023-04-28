@@ -4,7 +4,7 @@ namespace _2._Check_Even_or_Odd
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Enter number to check if it's even or odd :");
 

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Check Even or Odd", "2. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Check Positive or Negative", "3. Check Positive or Negative\3. Check Positive or Negative.csproj", "{498530D0-FF26-408A-A319-CFDD191ED0AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Leap year", "4. Leap year\4. Leap year.csproj", "{B3508829-2302-4F34-B69B-DC643A75E778}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{498530D0-FF26-408A-A319-CFDD191ED0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{498530D0-FF26-408A-A319-CFDD191ED0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{498530D0-FF26-408A-A319-CFDD191ED0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3508829-2302-4F34-B69B-DC643A75E778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3508829-2302-4F34-B69B-DC643A75E778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3508829-2302-4F34-B69B-DC643A75E778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3508829-2302-4F34-B69B-DC643A75E778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
