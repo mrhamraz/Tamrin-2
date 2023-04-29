@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Check Even or Odd", "2. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Check Positive or Negative", "3. Check Positive or Negative\3. Check Positive or Negative.csproj", "{498530D0-FF26-408A-A319-CFDD191ED0AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Leap year", "4. Leap year\4. Leap year.csproj", "{B3508829-2302-4F34-B69B-DC643A75E778}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Leap year", "4. Leap year\4. Leap year.csproj", "{B3508829-2302-4F34-B69B-DC643A75E778}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. 1 0 -1", "5. 1 0 -1\5. 1 0 -1.csproj", "{80E18776-5F4E-43B2-9A49-23CEEEEC02C3}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Olempyad", "8. Olempyad\8. Olempyad.csproj", "{AD29AF29-08FE-438B-8CA7-C9C24FB4CA70}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Type of Triangle", "9. Type of Triangle\9. Type of Triangle.csproj", "{E7DF1D6E-359C-46BE-A76B-E3040CFFC0E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Vowel (if)", "11. Vowel (if)\11. Vowel (if).csproj", "{16EF6A2D-7DF5-40AF-ACC7-77C53BE94442}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{E7DF1D6E-359C-46BE-A76B-E3040CFFC0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7DF1D6E-359C-46BE-A76B-E3040CFFC0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7DF1D6E-359C-46BE-A76B-E3040CFFC0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16EF6A2D-7DF5-40AF-ACC7-77C53BE94442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EF6A2D-7DF5-40AF-ACC7-77C53BE94442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EF6A2D-7DF5-40AF-ACC7-77C53BE94442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EF6A2D-7DF5-40AF-ACC7-77C53BE94442}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
