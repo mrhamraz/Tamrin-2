@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Biggest of 3", "7. Bigge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Olempyad", "8. Olempyad\8. Olempyad.csproj", "{AD29AF29-08FE-438B-8CA7-C9C24FB4CA70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Type of Triangle", "9. Type of Triangle\9. Type of Triangle.csproj", "{E7DF1D6E-359C-46BE-A76B-E3040CFFC0E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{AD29AF29-08FE-438B-8CA7-C9C24FB4CA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD29AF29-08FE-438B-8CA7-C9C24FB4CA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD29AF29-08FE-438B-8CA7-C9C24FB4CA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DF1D6E-359C-46BE-A76B-E3040CFFC0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DF1D6E-359C-46BE-A76B-E3040CFFC0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DF1D6E-359C-46BE-A76B-E3040CFFC0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DF1D6E-359C-46BE-A76B-E3040CFFC0E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
